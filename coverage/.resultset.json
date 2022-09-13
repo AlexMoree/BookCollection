@@ -3,16 +3,26 @@
     "coverage": {
       "/csce431/spec/feature/integration_spec.rb": {
         "lines": [
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
           null,
           1,
+          1,
+          1,
+          1,
+          1,
+          1,
           null,
           1,
           1,
           1,
           1,
           1,
-          1,
-          1,
+          null,
           null,
           null
         ]
@@ -352,6 +362,7 @@
         "lines": [
           1,
           1,
+          1,
           null,
           null
         ]
@@ -375,9 +386,24 @@
           null,
           1,
           1,
-          2,
+          5,
           null,
           null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
           1,
           1,
           null,
@@ -391,6 +417,9 @@
       },
       "/csce431/app/models/book.rb": {
         "lines": [
+          1,
+          1,
+          1,
           1,
           1,
           null
@@ -484,6 +513,6 @@
         ]
       }
     },
-    "timestamp": 1662748776
+    "timestamp": 1663087115
   }
 }
